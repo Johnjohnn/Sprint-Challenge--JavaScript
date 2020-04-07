@@ -25,7 +25,7 @@ return num1 * num2;
 
 }
 function greeting (first_name, last_name) {
-return 'Hello ${first_name} ${last_name}, nice to meet you!'
+return `Hello ${first_name} ${last_name}, nice to meet you!`
 
 
 }
